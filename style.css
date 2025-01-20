@@ -112,12 +112,11 @@
 
 .time-section {
   font-family: poppins, sans-serif;
-  color: darkgrey;
   line-height: 20px;
 }
 
 .hero-area .time-section small {
-  color: rgb(74, 74, 74);
+  color: rgb(92, 90, 90);
   font-size: 12px;
 }
 
