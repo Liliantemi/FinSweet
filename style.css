@@ -116,6 +116,10 @@
   line-height: 20px;
 }
 
+.hero-area .time-section small {
+  color: rgb(74, 74, 74);
+}
+
 .clock-time {
   display: flex;
   align-items: center;
